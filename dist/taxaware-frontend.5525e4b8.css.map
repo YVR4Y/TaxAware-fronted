@@ -1,0 +1,1 @@
+{"mappings":"AAAA","sources":["src/styles/main.css"],"sourcesContent":["body {\r\n  font-family: Arial, sans-serif;\r\n  background: #f3f4f6;\r\n  margin: 0;\r\n  padding: 20px;\r\n}\r\n"],"names":[],"version":3,"file":"taxaware-frontend.5525e4b8.css.map","sourceRoot":"/__parcel_source_root/"}

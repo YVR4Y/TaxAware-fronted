@@ -1,0 +1,22 @@
+{
+  "name": "taxaware-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "homepage": "https://<YVR4Y>.github.io/taxaware-frontend",
+  "scripts": {
+    "start": "parcel src/index.html --port 1234",
+    "build": "parcel build src/index.html --public-url ./",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.4.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "parcel": "^2.9.3"
+  }
+}
